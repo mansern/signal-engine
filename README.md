@@ -1,6 +1,6 @@
-# **SlackSentinel** - Sentiment-Based Risk Detection for Slack Messages
+# Sentiment-Based Risk Detection for Employees
 
-**SlackSentinel** is a Proof of Concept (POC) that leverages sentiment analysis to detect potential resignation risks in Slack messages. This project is designed to help organizations monitor the emotional health of their employees by analyzing communication trends within Slack channels. The system calculates sentiment scores and detects messages that indicate resignation risks, such as stress, burnout, or dissatisfaction.
+**SlackSentinelEngine** is a Proof of Concept (POC) that leverages sentiment analysis to detect potential resignation risks in Slack messages. This project is designed to help organizations monitor the emotional health of their employees by analyzing communication trends within Slack channels. The system calculates sentiment scores and detects messages that indicate resignation risks, such as stress, burnout, or dissatisfaction.
 
 ---
 
