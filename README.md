@@ -70,7 +70,7 @@ After analyzing the Slack messages, an HTML report is generated summarizing the 
 
 Follow these steps to set up the project locally:
 
-### **Step 1: Clone the Repository**
+### **How it works: Clone the Repository**
 
 ```bash
 git clone https://github.com/mansern/signal-engine
